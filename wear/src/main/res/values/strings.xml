@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRG02</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title">Excited</string>
+    <string name= "content">Document it!</string>
+
+</resources>
